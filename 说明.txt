@@ -1,0 +1,3 @@
+需要安装PIL库
+
+pip install Pillow
